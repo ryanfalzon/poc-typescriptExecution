@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{15E4A9B7-B8BD-4AF9-B017-BBE889228BD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeScriptExecutionPoC", "Source\TypeScriptExecutionPoC\TypeScriptExecutionPoC.csproj", "{7AED7205-6B9B-42E2-85E2-967DA90BDFE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F602E3D3-E452-46EB-872C-06BFB0BA1E16}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AED7205-6B9B-42E2-85E2-967DA90BDFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AED7205-6B9B-42E2-85E2-967DA90BDFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AED7205-6B9B-42E2-85E2-967DA90BDFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AED7205-6B9B-42E2-85E2-967DA90BDFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7AED7205-6B9B-42E2-85E2-967DA90BDFE0} = {15E4A9B7-B8BD-4AF9-B017-BBE889228BD9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE8BB142-808D-4556-AFA9-A915BFBA103A}
+	EndGlobalSection
+EndGlobal

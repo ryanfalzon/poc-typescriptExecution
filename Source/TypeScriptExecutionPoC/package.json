@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "name": "typescript_execution_poc",
+  "private": true,
+  "devDependencies": {
+    "solc-typed-ast": "8.0.1" 
+  }
+}
